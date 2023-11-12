@@ -9,8 +9,23 @@ scikit-learn = "*"
 pandas = "*"
 tensorflow-macos = "*"
 tensorflow-metal = "*"
+torch = "*"
+torchvision = "*"
+matplotlib = "*"
+seaborn = "*"
+tqdm = "*"
+pip = "*"
+setuptools = "*"
+wheel = "*"
+spacy = {extras = ["apple"], version = "*"}
+transformers = "*"
+datasets = "*"
+tokenizers = "*"
+seqeval = "*"
+accelerate = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.11"
