@@ -23,6 +23,8 @@ datasets = "*"
 tokenizers = "*"
 seqeval = "*"
 accelerate = "*"
+evaluate = "*"
+streamlit = "*"
 
 [dev-packages]
 ipykernel = "*"
